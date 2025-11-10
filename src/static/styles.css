@@ -108,6 +108,16 @@ button:hover {
   background-color: #3949ab;
 }
 
+/* Make the sign-up form's submit button red */
+#signup-form button {
+  background-color: #d32f2f; /* red */
+  color: white;
+}
+
+#signup-form button:hover {
+  background-color: #b71c1c; /* darker red on hover */
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
